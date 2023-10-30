@@ -1,0 +1,55 @@
+body {
+    background-color: #F0F0F4;
+}
+
+.logo img{
+    margin: 1.5rem auto;
+}
+
+.russian-button{
+    width: 311px;
+    height: 50px;
+    border-radius:15px;
+    background-color: #fff;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
+
+.english-button{
+    width: 311px;
+    height: 50px;
+    border-radius:15px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #000;
+    font-weight: 500;
+}
+
+.language-header {
+    font-size: 25px;
+    text-align: center;
+    margin: 1.5rem auto;
+}
+
+.english-button:hover, 
+.russian-button:hover{
+    border: 1px solid #FF9500;
+    color: #FF9500;
+}
+
+.submit-button {
+    width: 311px;
+    height: 50px;
+    border-radius:15px;
+    border: 1px solid #FF9500;
+    background-color: #FF9500;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 5.5rem;
+}
+
+.submit-button:hover {
+    border: 1px solid #FF9500;
+    color: #FF9500;
+    background-color: #fff;
+}
